@@ -1,0 +1,21 @@
+<style>
+	.game-front-menu::AFTER {
+
+/* container */
+.three-columns {
+    display:flex;
+}
+
+/* columns */
+.three-columns > * {
+    width:calc(100% / 3);
+    padding:1rem;
+}
+	}
+</style>
+
+		<div class="three-columns">
+    <div><img src="https://i.ibb.co/RgbFg6r/counter-dubai.gif" alt="counter-dubai" border="0" width="33.33%"></div>
+    <div><img src="https://i.ibb.co/RgbFg6r/counter-dubai.gif" alt="counter-dubai" border="0" width="33.33%"></div>
+    <div><img src="https://i.ibb.co/RgbFg6r/counter-dubai.gif" alt="counter-dubai" border="0" width="33.33%"></div>
+</div>
